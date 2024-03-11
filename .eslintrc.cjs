@@ -23,6 +23,7 @@ const config = {
     "@typescript-eslint/no-empty-function": "warn",
     "@typescript-eslint/no-unsafe-call": "warn",
     "@typescript-eslint/no-unsafe-return": "warn",
+    "@typescript-eslint/prefer-optional-chain": "warn",
 
     "@typescript-eslint/consistent-type-imports": [
       "warn",
